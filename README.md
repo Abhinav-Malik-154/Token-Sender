@@ -39,10 +39,10 @@ cd tsender-ui
 pnpm install
 pnpm run dev
 ```
-## 🙌 About the Author  
 
-👤 **Abhinav Malik**  
+## 🙌 About the Author
 
+👤 **Abhinav Malik**
 
 🔗 **Connect with me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhinav%20Malik-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-malik-16b493277/)  
