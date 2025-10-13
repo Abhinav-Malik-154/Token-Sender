@@ -22,6 +22,8 @@ A 100% client-side UI for the TSender contract.
     - You'll know you've installed it right if you can run `pnpm --version` and get a response like `10.1.0`
 - [git](https://git-scm.com/downloads)
     - You'll know you've installed it right if you can run `git --version` and get a response like `git version 2.33.0`
+- [foundryup](https://foundryup.com/downloads)
+    - You'll know you've installed it right if you can run `foundryup --version` and get a response like `foundryup version 1.1.0`
 
 ### Environment Variables
 
